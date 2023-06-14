@@ -38,7 +38,7 @@
     <p>The fun comes from the users, and the tasks they invent, and how tasks are interpreted and completed</p>
     <p> None of this really means anything, so why not have some fun while doing it?</p>
     <br />
-  <img src="../assets/images/dnvrzero.jpg" />
+  <img src="https://github.com/dnvr-zero/dnvr-zero-be/raw/main/public/dnvr-zero.jpg" alt="Logo">
     <br />
     <a href="http://sf0.org/"><strong>Visit the original website that is the inspiration for this project »</strong></a>
     <br />

@@ -70,6 +70,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#wireframes">Wireframes</a></li>
     <li><a href="#schema">Schema</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -113,6 +114,27 @@ We're alumni of the Turing School of Software and Design, and this project is pa
 - clone your fork onto your local machine
 - cd into the new repo
 - install the necessary packages
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Wireframes -->
+
+## Wireframes
+
+### LogIn Page Wireframe
+<img src="https://github.com/dnvr-zero/dnvr-zero-be/raw/main/public/loginPageWireFrame.png" alt="Logo">
+
+### Main Page Wireframe
+<img src="https://github.com/dnvr-zero/dnvr-zero-be/raw/main/public/mainPageWireFrame.png" alt="Logo">
+
+### Player Profile Wireframe
+<img src="https://github.com/dnvr-zero/dnvr-zero-be/raw/main/public/playerProfileWireFrame.png" alt="Logo">
+
+### Task Details Wireframe
+<img src="https://github.com/dnvr-zero/dnvr-zero-be/raw/main/public/taskDetailsWireFrame.png" alt="Logo">
+
+### Task Holder Wireframe
+<img src="https://github.com/dnvr-zero/dnvr-zero-be/raw/main/public/taskHolderWireFrame.png" alt="Logo">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -190,8 +212,6 @@ Some great tools and/or people who helped to make this project what it is!
 -   [Choose an Open Source License](https://choosealicense.com)
 -   [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 -   [Img Shields](https://shields.io)
--   [GitHub Pages](https://pages.github.com)
--   [Rubocop](https://rubocop.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

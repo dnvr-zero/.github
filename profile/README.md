@@ -227,7 +227,7 @@ Some great tools and/or people who helped to make this project what it is!
 [issues-shield]: https://img.shields.io/github/issues/dnvr-zero/dnvr-zero.svg?style=for-the-badge
 [issues-url]: https://github.com/dnvr-zero/dnvr-zero/issues
 [license-shield]: https://img.shields.io/github/license/dnvr-zero/dnvr-zero.svg?style=for-the-badge
-[license-url]: https://github.com/dnvr-zero/dnvr-zero/blob/master/LICENSE.txt
+[license-url]: https://github.com/dnvr-zero/.github/blob/main/profile/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mmarchand1/
 [product-screenshot]: images/screenshot.png

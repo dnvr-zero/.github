@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/marchandmd/relational_rails/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/dnvr-zero/dnvr-zero/pull/73 -->
 
 <a name="readme-top"></a>
 
@@ -33,15 +33,20 @@
   <h1 align="center">DNVR Zero</h1>
 
   <p align="center">
-    <h3>An update (and re-location) of the original Collaborative Production Game, [sf0.org](http://sf0.org/)</h3>
+    <h3>DNVRzero (or Dnvr0) is a modernization of the wildly successful <strong><a href="http://sf0.org">SF0.org</a></strong></h3>
+    <p>The idea is simple, really: create a user, complete tasks, gain points, level up</p>
+    <p>The fun comes from the users, and the tasks they invent, and how tasks are interpreted and completed</p>
+    <p> None of this really means anything, so why not have some fun while doing it?</p>
     <br />
-  <img src="" />
+  <img src="../assets/images/dnvrzero.jpg" />
     <br />
-    <a href="http://sf0.org/"><strong>Visit the original »</strong></a>
+    <a href="http://sf0.org/"><strong>Visit the original website that is the inspiration for this project »</strong></a>
     <br />
     <br />
     <a href="https://github.com/dnvr-zero/dnvr-zero">View Backend source code</a>
     ·
+    <a href="https://github.com/dnvr-zero/dnvr-zero-fe">View Frontend source code</a>
+    .
     <a href="https://github.com/marchandmd/dnvr-zero/dnvr-zero/issues">Report Bug</a>
     ·
     <a href="https://github.com/marchandmd/dnvr-zero/dnvr-zero/issues">Request Feature</a>
@@ -49,7 +54,7 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -73,21 +78,23 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-We're building an update to the original collaborative production game
+We're alumni of the Turing School of Software and Design, and this project is part of the New Grad Services program, which provides opportunity for recent grads to continue to practice existing skills, gain new tech stack, and build community around an open source project.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
--   [![Ruby][ruby.com]][ruby-url]
--   [![Rspec][rspec.com]][rspec-url]
+-   [![MongoDB][MongoDB]][mongo-url]
+-   [![Express][Express]][express-url]
+-   [![React][react]][react-url]
+-   [![Node][Node]][node-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,11 +104,15 @@ We're building an update to the original collaborative production game
 
 ### Prerequisites
 
-- TBD
+- Must have Node and NPM on your machine
 
 ### Installation
 
-- TBD
+- Depending on which branch you're looking to work on, navigate the either the frontend or backend repository
+- fork the repository
+- clone your fork onto your local machine
+- cd into the new repo
+- install the necessary packages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +120,7 @@ We're building an update to the original collaborative production game
 
 ## Schema
 
-TBD
+TBD (WIP)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -129,7 +140,9 @@ TBD
 
 - [ ] Update README
 
-See the [open issues](https://github.com/marchandmd/dnvr-zero/dnvr-zero/issues) for a full list of proposed features (and known issues).
+See the [backend open issues](https://github.com/dnvr-zero/dnvr-zero-be/issues) for a full list of proposed features (and known issues).
+
+See the [frontend open issues](https://github.com/dnvr-zero/dnvr-zero-fe/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,10 +152,10 @@ See the [open issues](https://github.com/marchandmd/dnvr-zero/dnvr-zero/issues) 
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion that would make this better, please fork the respective repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
+1. Fork the specific organization repo (frontend or backend)
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
@@ -163,7 +176,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Michael Marchand - MichaelDavidMarchand@gmail.com
-OTHERS TO BE ADDED
 
 Project Link: [https://github.com/dnvr-zero](https://github.com/dnvr-zero)
 
@@ -187,7 +199,7 @@ Some great tools and/or people who helped to make this project what it is!
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/dnvr-zero/dnvr-zero.svg?style=for-the-badge
-[contributors-url]: https://github.com/marchandmd/dnvr-zero/dnvr-zero/graphs/contributors
+[contributors-url]: https://github.com/orgs/dnvr-zero/people
 [forks-shield]: https://img.shields.io/github/forks/dnvr-zero/dnvr-zero.svg?style=for-the-badge
 [forks-url]: https://github.com/dnvr-zero/dnvr-zero/network/members
 [stars-shield]: https://img.shields.io/github/stars/dnvr-zero/dnvr-zero.svg?style=for-the-badge
@@ -205,3 +217,11 @@ Some great tools and/or people who helped to make this project what it is!
 [ruby-url]: https://ruby-doc.org/core-2.7.2/
 [rspec.com]: https://img.shields.io/badge/rspec-v3.12-success
 [rspec-url]: https://rspec.info/documentation/
+[MongoDB]: https://img.shields.io/badge/mongoDB-v5.6-success
+[mongo-url]: https://www.mongodb.com/
+[Express]: https://img.shields.io/badge/Express-v4.18-success
+[express-url]: https://expressjs.com/
+[React]: https://img.shields.io/badge/React-v1.0-success
+[react-url]: https://react.dev/
+[Node]: https://img.shields.io/badge/Node-v19.7.0-success
+[node-url]: https://nodejs.dev/en/

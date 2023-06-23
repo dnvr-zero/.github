@@ -71,6 +71,7 @@
     </li>
     <li><a href="#wireframes">Wireframes</a></li>
     <li><a href="#schema">Schema</a></li>
+    <li><a href="#json-contracts">JSON contracts</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -161,8 +162,23 @@ We're alumni of the Turing School of Software and Design, and this project is pa
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
+<!-- JSON contracts -->
+## JSON contracts
 
+The backend repository is using Swagger to help document the endpoints.
+
+Once the backend repo has been forked, cloned and packages have been installed, run the following command to start the development environment:
+
+```
+> npm run start:dev
+```
+
+now navigate to `localhost:8000/apidocs` and you'll see the Swagger UI
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- USAGE EXAMPLES -->
 ## Usage
 
   This project will be live; Locating the live site will be listed here, when available

@@ -24,16 +24,15 @@
 <div align="center">
 
   <h1 align="center">DNVR Zero</h1>
-
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <p align="center">
     <h3>DNVRzero (or Dnvr0) is a modernization of the wildly successful <strong><a href="http://sf0.org">SF0.org</a></strong></h3>
     <p>The idea is simple, really: create a user, complete tasks, gain points, level up</p>
     <p>The fun comes from the users, and the tasks they invent, and how tasks are interpreted and completed</p>
     <p> None of this really means anything, so why not have some fun while doing it?</p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <br />
     <figure>
   <img src="https://github.com/dnvr-zero/dnvr-zero-be/raw/main/public/dnvrzero.jpg" alt="Logo">
